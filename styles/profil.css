@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(211, 225, 238) !important;
+}
+.container{
+    background-image: url("../images/excellent_3_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000px 400px;
+    height:1500px;
+    width:800px;
+    text-align:center;
+    background-color:aliceblue;
+    color:black;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:100px;
+    border:1px solid black;
+    font-family:monospace;
+    font-size:20px
+}
+
+.container img{
+    height: 250px;
+    width: 250px;
+    margin-top: 80px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.links a{
+    text-decoration: none;
+}
+.main{
+    margin-top: 20px;
+    background-color: gray;
+}
+.left{
+    width: 30%;
+    margin-left: 2%;
+    background-color: white;
+    border: 1px solid transparent;
+    float:left;
+    
+    
+}
+.right{
+    width:65%;
+    background-color:aliceblue;
+    border: 1px solid transparent;
+    float:right;
+}
+
+.btn{
+    float:right;
+    
+}

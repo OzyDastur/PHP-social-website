@@ -1,0 +1,80 @@
+
+
+.navbar{
+    background-color: aliceblue;
+    background-image: url("../images/bg6.jpg");
+    height: 1000px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color:white;
+    border:1px solid white; 
+    border-radius:6.25px;
+    
+    
+}
+
+.pt-0{
+    margin-top:-400px;
+}
+.navbar .nav-link{
+    
+    color:white!important;
+    border: 1px solid transparent;
+    border-radius: 4.25px;
+    font-size: 18px ;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+.navbar .nav-link:hover{
+    border: 1px solid white;
+    border-radius: 4.25px;
+    color:white !important;
+    
+   
+}
+
+
+.navbar img{
+    width:70px;
+    height: 70px;
+    margin-top:0;
+}
+
+.navbar .navbar-text{
+    color:white !important;
+    font-family: 'Righteous', cursive;
+    font-size: 48px;
+    
+    
+}
+
+
+
+.btn{
+    margin-left: 20px;
+    width: 100px;
+    border: 1px solid transparent;
+    
+   
+}
+.btn a{
+    color:white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.quote h1{
+    margin-top:300px;
+}
+.top-main{
+    height: 400px;
+    background-color: aliceblue;
+   
+    
+    text-align: center;
+    font-size: 32px;
+    margin-top: 40px;
+    width: 100%;
+}

@@ -1,0 +1,124 @@
+body{
+    background-color: white !important;
+}
+
+.navbar{
+   
+    border:1px solid white; 
+    border-radius:6.25px;
+   
+    
+}
+
+.pt-1 {
+    margin-top: -10px !important;
+  }
+  .pb-1{
+      margin-bottom: -10px !important;
+  }
+  
+.navbar .nav-link{
+    
+    color:white!important;
+    border: 1px solid transparent;
+    border-radius: 4.25px;
+    font-size: 18px ;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+.navbar .nav-link:hover{
+    border: 1px solid white;
+    border-radius: 4.25px;
+    color:white !important;
+    
+   
+}
+
+
+.logo-image{
+    width:55px;
+    height: 55px;
+    margin-left:100px;
+}
+
+.navbar .navbar-text{
+    color:white !important;
+    font-family: 'Righteous', cursive;
+    font-size: 36px;
+    
+    
+}
+
+.dropdown-menu{
+    background-color:whitesmoke;
+}
+
+
+.navbar .dropdown-menu a{
+    display:block;
+   
+    text-decoration: none;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.dropdown-menu a:hover{
+   background-color:rgb(3, 0, 179);
+   color:white;
+}
+
+
+
+
+.login-wrapper {
+    background-color:white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top:200px;
+    margin-bottom:100px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0.5px solid black;
+    border-radius: 4.25px;
+    width:400px;
+}
+.login-wrapper form{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    margin-bottom:30px;
+    width: 340px;
+    height: 200px;
+	border: 0.5px solid white;
+    border-radius: 4.25px;
+    background-color:white;
+}
+.btn{
+    width: 340px;
+    background-color: rgb(6, 190, 6);
+    color:white;
+}
+
+.copyright{
+    position: fixed;
+    left:0;
+    bottom:0;
+    width: 100%;
+    height: auto;
+    color:rgb(217, 217, 226);
+    background-color: rgb(39, 48, 59);
+    
+    
+}
+.copyright p{
+    background-color:rgb(39, 48, 59);
+    text-align: center;
+    font-size: 14pt;
+}
+.singup-link a{
+    
+    text-decoration: none;
+    
+}
